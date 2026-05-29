@@ -1,6 +1,6 @@
 # Keystone I: The First Bearing
 
-## Bridge-Admitted Response Unification in Foundry Cosmology
+## Bridge-Admitted Response Unification in Deep Origin Theory
 
 Author line to be finalized
 
@@ -8,7 +8,7 @@ Date: 2026-04-29
 
 ## Abstract
 
-We present Foundry Cosmology, in its Keystone I line, as a governed retarded-response unification framework linking a south finite-volume traceless response object and a north same-cluster traceless response object through a source-quality common response manifest, a source-governed common test basis, and a no-smoothing distributional basis harmonization map. The south object is authorized as a source-quality traceless response object below kernel under a nonpromoting ceiling, while the north object is authorized as a source-quality traceless response object below Gate2. These independently authorized objects are brought into a common same-parent response setting without operator surplus, parameter split, kernel promotion, or Gate2 promotion.
+We present Deep Origin Theory, in its Keystone I line, as a governed retarded-response unification framework linking a south finite-volume traceless response object and a north same-cluster traceless response object through a source-quality common response manifest, a source-governed common test basis, and a no-smoothing distributional basis harmonization map. The south object is authorized as a source-quality traceless response object below kernel under a nonpromoting ceiling, while the north object is authorized as a source-quality traceless response object below Gate2. These independently authorized objects are brought into a common same-parent response setting without operator surplus, parameter split, kernel promotion, or Gate2 promotion.
 
 The resulting same-parent traceless pair survives bridge engineering review and bridge admission on an authorized common test basis. The accepted bridge layer uses an exact distributional embedding for the south object, signed cell integration for the north object, zero projection debt, zero smoothing, and positive robust overlap diagnostics with canonical values `Xi_raw = 0.3148145037995458`, `Xi_hat = 0.7589533617835368`, and `Xi_hat_min = 0.751178834903882`. In the program's internal governance record, this bridge-supported common-response layer proceeds under an explicit `NO_COSMOLOGY_COMPLETION` ceiling.
 
@@ -26,7 +26,7 @@ The result is publishable now, but only under a strict ceiling. We therefore do 
 
 The externally reviewable claim of this paper is:
 
-> Foundry Cosmology, in its Keystone I line, provides a governed common-response framework in which independently authorized south and north traceless response objects can be harmonized through a source-governed common test basis, yielding a bridge-admitted same-parent layer without operator surplus, parameter split, kernel promotion, or Gate2 promotion.
+> Deep Origin Theory, in its Keystone I line, provides a governed common-response framework in which independently authorized south and north traceless response objects can be harmonized through a source-governed common test basis, yielding a bridge-admitted same-parent layer without operator surplus, parameter split, kernel promotion, or Gate2 promotion.
 
 The paper is intentionally bounded by the following non-claims:
 
@@ -351,7 +351,7 @@ These anchors support language such as:
 - retarded self-energy as linear response of the medium
 - induced-current chains of the form `J_ind = -Pi_R A`
 
-They do not, by themselves, establish the broader Foundry mission. They justify the response vocabulary used in the formal sectors of this paper.
+They do not, by themselves, establish the broader Deep Origin Theory mission. They justify the response vocabulary used in the formal sectors of this paper.
 
 ## 16. Conclusion
 
