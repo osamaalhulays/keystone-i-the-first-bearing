@@ -6,7 +6,7 @@ Keystone I is publishable now as:
 
 - a bridge-admitted response-unification result
 - a same-parent common-response layer under explicit ceilings
-- a bounded technical line inside Foundry Cosmology
+- a bounded technical line inside Deep Origin Theory
 
 ## Not Claimed
 
@@ -20,4 +20,4 @@ Keystone I is publishable now as:
 
 ## Safe One-Liner
 
-> We present Foundry Cosmology, in its Keystone I line, as a governed common-response framework in which independently authorized south and north traceless response objects are harmonized through a source-governed common test basis, yielding a bridge-admitted unification layer under an explicit no-cosmology-completion ceiling.
+> We present Deep Origin Theory, in its Keystone I line, as a governed common-response framework in which independently authorized south and north traceless response objects are harmonized through a source-governed common test basis, yielding a bridge-admitted unification layer under an explicit no-cosmology-completion ceiling.
