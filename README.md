@@ -1,6 +1,6 @@
-# Foundry Cosmology / Keystone I: The First Bearing
+# Deep Origin Theory / Keystone I: The First Bearing
 
-This repository contains the public-facing package for **Keystone I: The First Bearing** inside **Foundry Cosmology**.
+This repository contains the public-facing package for **Keystone I: The First Bearing** inside **Deep Origin Theory**.
 
 ## Public Position
 
