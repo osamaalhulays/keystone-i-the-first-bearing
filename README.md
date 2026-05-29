@@ -1,6 +1,6 @@
 # Deep Origin Theory / Keystone I: The First Bearing
 
-This repository contains the public-facing package for **Keystone I: The First Bearing** inside **Deep Origin Theory**.
+This repository contains the **English public-facing bundle** for **Keystone I: The First Bearing** inside **Deep Origin Theory**.
 
 ## Public Position
 
@@ -22,4 +22,8 @@ This repository does **not** present:
 - a final theory-of-everything announcement
 - a predictive `H(z)` or `D_L(z)` closure
 
-It presents the bounded, reviewable layer earned by the current line.
+It presents the bounded, reviewable English layer earned by the current line.
+
+The matching Arabic release mirror is carried in the umbrella public wave:
+
+- <https://github.com/osamaalhulays/deep-origin-theory/tree/main/ARABIC/Keystone_I_The_First_Bearing_20260429>
