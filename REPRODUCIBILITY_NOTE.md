@@ -4,7 +4,7 @@ This package is externally clean and reader-facing.
 
 It preserves the technical claim, the ceilings, the diagnostics, and the bounded publication posture of Keystone I.
 
-The full internal audit trail, workshop artifacts, and governance anchors remain maintained in the workshop and can be furnished separately when needed for review or verification.
+The full internal audit trail, supporting artifacts, and governance records remain maintained in the internal archive and can be furnished separately when needed for review or verification.
 
 Reader-facing reproducibility points retained here:
 
