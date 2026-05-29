@@ -1,10 +1,10 @@
 # Keystone I: The First Bearing
 
-## Bridge-Admitted Response Unification in Foundry Cosmology
+## Bridge-Admitted Response Unification in Deep Origin Theory
 
 ## Public Release Label
 
-`Foundry Cosmology / Keystone I: bridge-admitted response unification with cosmology held closed.`
+`Deep Origin Theory / Keystone I: bridge-admitted response unification with cosmology held closed.`
 
 ## Publication Posture
 
